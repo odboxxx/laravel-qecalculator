@@ -1,5 +1,5 @@
 # laravel-qecalculator
-Simple quadratic equation calculator for laravel with Blade and Tailwind
+Simple quadratic equation calculator for laravel 10 with Blade and Tailwind
 
 ## Download
 `````
